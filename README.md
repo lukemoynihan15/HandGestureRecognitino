@@ -1,1 +1,1 @@
-# HandGestureRecognitino
+# HandGestureRecognition
